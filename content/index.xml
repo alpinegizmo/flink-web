@@ -6,7 +6,7 @@
     <description>Recent content in Apache Flink® — Stateful Computations over Data Streams on Apache Flink</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Mar 2025 18:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Mar 2025 08:00:00 +0000</lastBuildDate>
     <atom:link href="https://flink.apache.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Architecture</title>
@@ -252,6 +252,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://flink.apache.org/how-to-contribute/getting-help/</guid>
       <description>Getting Help # Having a Question? # The Apache Flink community answers many user questions every day. You can search for answers and advice in the archives or reach out to the community for help and guidance.&#xA;User Mailing List # Many Flink users, contributors, and committers are subscribed to Flink&amp;rsquo;s user mailing list. The user mailing list is a very good place to ask for help.&#xA;Before posting to the mailing list, you can search the mailing list archives for email threads that discuss issues related to yours on the following websites.</description>
+    </item>
+    <item>
+      <title>Apache Flink 2.0.0: A new Era of Real-Time Data Processing</title>
+      <link>https://flink.apache.org/2025/03/24/apache-flink-2.0.0-a-new-era-of-real-time-data-processing/</link>
+      <pubDate>Mon, 24 Mar 2025 08:00:00 +0000</pubDate>
+      <guid>https://flink.apache.org/2025/03/24/apache-flink-2.0.0-a-new-era-of-real-time-data-processing/</guid>
+      <description>Today, the Flink PMC is proud to announce the official release of Apache Flink 2.0.0! This marks the first release in the Flink 2.x series and is the first major release since Flink 1.0 launched nine years ago. This version is the culmination of two years of meticulous preparation and collaboration, signifying a new chapter in the evolution of Flink.&#xA;In this release, 165 contributors have come together to complete 25 FLIPs (Flink Improvement Proposals) and 369 issues.</description>
     </item>
     <item>
       <title>Apache Flink Kubernetes Operator 1.11.0 Release Announcement</title>
