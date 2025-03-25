@@ -15,11 +15,11 @@
       <description> Flink documentation (latest stable release) # You can find the Flink documentation for the latest stable release here. </description>
     </item>
     <item>
-      <title>Flink 2.0 (preview)</title>
-      <link>https://flink.apache.org/zh/documentation/flink-preview/</link>
+      <title>Flink $FlinkLTSShortVersion (LTS)</title>
+      <link>https://flink.apache.org/zh/documentation/flink-lts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://flink.apache.org/zh/documentation/flink-preview/</guid>
-      <description> Flink documentation (latest stable release) # You can find the Flink documentation for the latest preview release here. </description>
+      <guid>https://flink.apache.org/zh/documentation/flink-lts/</guid>
+      <description> Flink documentation (latest LTS release) # You can find the Flink documentation for the latest Long-Term Support(LTS) release here. </description>
     </item>
     <item>
       <title>Flink Master (snapshot)</title>

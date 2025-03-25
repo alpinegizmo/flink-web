@@ -37,11 +37,11 @@
       <description>What is Apache Flink? — Applications # Apache Flink is a framework for stateful computations over unbounded and bounded data streams. Flink provides multiple APIs at different levels of abstraction and offers dedicated libraries for common use cases.&#xA;Here, we present Flink&amp;rsquo;s easy-to-use and expressive APIs and libraries.&#xA;Building Blocks for Streaming Applications # The types of applications that can be built with and executed by a stream processing framework are defined by how well the framework controls streams, state, and time.</description>
     </item>
     <item>
-      <title>Flink 2.0 (preview)</title>
-      <link>https://flink.apache.org/documentation/flink-preview/</link>
+      <title>Flink $FlinkLTSShortVersion (LTS)</title>
+      <link>https://flink.apache.org/documentation/flink-lts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://flink.apache.org/documentation/flink-preview/</guid>
-      <description> Flink documentation (latest stable release) # You can find the Flink documentation for the latest preview release here. </description>
+      <guid>https://flink.apache.org/documentation/flink-lts/</guid>
+      <description> Flink documentation (latest LTS release) # You can find the Flink documentation for the latest Long-Term Support(LTS) release here. </description>
     </item>
     <item>
       <title>With Flink Kubernetes Operator</title>

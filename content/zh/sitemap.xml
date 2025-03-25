@@ -38,16 +38,16 @@
                 href="https://flink.apache.org/zh/what-is-flink/flink-architecture/"
                 />
   </url><url>
-    <loc>https://flink.apache.org/zh/documentation/flink-preview/</loc>
+    <loc>https://flink.apache.org/zh/documentation/flink-lts/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://flink.apache.org/documentation/flink-preview/"
+                href="https://flink.apache.org/documentation/flink-lts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://flink.apache.org/zh/documentation/flink-preview/"
+                href="https://flink.apache.org/zh/documentation/flink-lts/"
                 />
   </url><url>
     <loc>https://flink.apache.org/zh/getting-started/with-flink-kubernetes-operator/</loc>
