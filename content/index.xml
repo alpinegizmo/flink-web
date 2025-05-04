@@ -6,7 +6,7 @@
     <description>Recent content in Apache Flink® — Stateful Computations over Data Streams on Apache Flink</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Mar 2025 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Apr 2025 18:00:00 +0000</lastBuildDate>
     <atom:link href="https://flink.apache.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Architecture</title>
@@ -252,6 +252,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://flink.apache.org/how-to-contribute/getting-help/</guid>
       <description>Getting Help # Having a Question? # The Apache Flink community answers many user questions every day. You can search for answers and advice in the archives or reach out to the community for help and guidance.&#xA;User Mailing List # Many Flink users, contributors, and committers are subscribed to Flink&amp;rsquo;s user mailing list. The user mailing list is a very good place to ask for help.&#xA;Before posting to the mailing list, you can search the mailing list archives for email threads that discuss issues related to yours on the following websites.</description>
+    </item>
+    <item>
+      <title>Introducing the Externalized Kudu Connector</title>
+      <link>https://flink.apache.org/2025/04/30/introducing-the-externalized-kudu-connector/</link>
+      <pubDate>Wed, 30 Apr 2025 18:00:00 +0000</pubDate>
+      <guid>https://flink.apache.org/2025/04/30/introducing-the-externalized-kudu-connector/</guid>
+      <description>We are pleased to announce the revival of a connector that makes it possible for Flink to interact with Apache Kudu. The original connector existed as part of the Apache Bahir project, which was moved into the attic. Despite this, we saw interest to keep the Kudu connector updated, hence the community agreed to externalize it as a standalone connector in accordance with the current connector development model. For more information about the externalization process, see FLIP-439.</description>
     </item>
     <item>
       <title>Apache Flink 2.0.0: A new Era of Real-Time Data Processing</title>
