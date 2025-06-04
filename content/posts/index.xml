@@ -6,8 +6,15 @@
     <description>Recent content in Flink Blog on Apache Flink</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 16 May 2025 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2025 18:00:00 +0000</lastBuildDate>
     <atom:link href="https://flink.apache.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apache Flink Kubernetes Operator 1.12.0 Release Announcement</title>
+      <link>https://flink.apache.org/2025/06/03/apache-flink-kubernetes-operator-1.12.0-release-announcement/</link>
+      <pubDate>Tue, 03 Jun 2025 18:00:00 +0000</pubDate>
+      <guid>https://flink.apache.org/2025/06/03/apache-flink-kubernetes-operator-1.12.0-release-announcement/</guid>
+      <description>The Apache Flink community is excited to announce the release of Flink Kubernetes Operator 1.12.0! The version brings a number of important fixes and improvements to both core and autoscaler modules.&#xA;We encourage you to download the release and share your experience with the community through the Flink mailing lists or JIRA! We&amp;rsquo;re looking forward to your feedback!&#xA;Highlights # Enhanced Error Visibility and Event Reporting # This release places a strong emphasis on improving the visibility and transparency of errors across the entire Flink Kubernetes Operator stack.</description>
+    </item>
     <item>
       <title>Apache Flink CDC 3.4.0 Release Announcement</title>
       <link>https://flink.apache.org/2025/05/16/apache-flink-cdc-3.4.0-release-announcement/</link>
