@@ -830,7 +830,7 @@ release_archive:
   flink_kubernetes_operator:
     - version_short: 1.13
       version_long: 1.13.0
-      release_date: 2025-09-27
+      release_date: 2025-09-29
     - version_short: 1.12
       version_long: 1.12.1
       release_date: 2025-07-08
