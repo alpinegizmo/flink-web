@@ -57,6 +57,20 @@
       <description> Flink CDC documentation (latest snapshot) # You can find the Flink CDC documentation for the latest snapshot here. </description>
     </item>
     <item>
+      <title>Agents $FlinkAgentsStableShortVersion (latest)</title>
+      <link>https://flink.apache.org/documentation/flink-agents-stable/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://flink.apache.org/documentation/flink-agents-stable/</guid>
+      <description> Flink Agents documentation (latest release) # You can find the Flink Agents documentation for the latest release here. </description>
+    </item>
+    <item>
+      <title>Agents Main (snapshot)</title>
+      <link>https://flink.apache.org/documentation/flink-agents-master/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://flink.apache.org/documentation/flink-agents-master/</guid>
+      <description> Flink Agents documentation (latest snapshot) # You can find the Flink Agents documentation for the latest snapshot here. </description>
+    </item>
+    <item>
       <title>ML $FlinkMLStableShortVersion (stable)</title>
       <link>https://flink.apache.org/documentation/flinkml-stable/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

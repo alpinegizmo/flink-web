@@ -137,16 +137,16 @@
                 href="https://flink.apache.org/what-is-flink/use-cases/"
                 />
   </url><url>
-    <loc>https://flink.apache.org/getting-started/with-flink-ml/</loc>
+    <loc>https://flink.apache.org/getting-started/with-flink-agents/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://flink.apache.org/zh/getting-started/with-flink-ml/"
+                href="https://flink.apache.org/zh/getting-started/with-flink-agents/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://flink.apache.org/getting-started/with-flink-ml/"
+                href="https://flink.apache.org/getting-started/with-flink-agents/"
                 />
   </url><url>
     <loc>https://flink.apache.org/what-is-flink/</loc>
@@ -197,16 +197,16 @@
                 href="https://flink.apache.org/what-is-flink/powered-by/"
                 />
   </url><url>
-    <loc>https://flink.apache.org/getting-started/with-flink-stateful-functions/</loc>
+    <loc>https://flink.apache.org/getting-started/with-flink-ml/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://flink.apache.org/zh/getting-started/with-flink-stateful-functions/"
+                href="https://flink.apache.org/zh/getting-started/with-flink-ml/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://flink.apache.org/getting-started/with-flink-stateful-functions/"
+                href="https://flink.apache.org/getting-started/with-flink-ml/"
                 />
   </url><url>
     <loc>https://flink.apache.org/documentation/flink-cdc-stable/</loc>
@@ -245,6 +245,18 @@
                 href="https://flink.apache.org/getting-started/training-course/"
                 />
   </url><url>
+    <loc>https://flink.apache.org/getting-started/with-flink-stateful-functions/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://flink.apache.org/zh/getting-started/with-flink-stateful-functions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://flink.apache.org/getting-started/with-flink-stateful-functions/"
+                />
+  </url><url>
     <loc>https://flink.apache.org/documentation/flink-cdc-master/</loc>
     <xhtml:link
                 rel="alternate"
@@ -269,16 +281,16 @@
                 href="https://flink.apache.org/what-is-flink/community/"
                 />
   </url><url>
-    <loc>https://flink.apache.org/documentation/flinkml-stable/</loc>
+    <loc>https://flink.apache.org/documentation/flink-agents-stable/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://flink.apache.org/zh/documentation/flinkml-stable/"
+                href="https://flink.apache.org/zh/documentation/flink-agents-stable/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://flink.apache.org/documentation/flinkml-stable/"
+                href="https://flink.apache.org/documentation/flink-agents-stable/"
                 />
   </url><url>
     <loc>https://flink.apache.org/what-is-flink/security/</loc>
@@ -293,16 +305,16 @@
                 href="https://flink.apache.org/what-is-flink/security/"
                 />
   </url><url>
-    <loc>https://flink.apache.org/documentation/flinkml-master/</loc>
+    <loc>https://flink.apache.org/documentation/flink-agents-master/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://flink.apache.org/zh/documentation/flinkml-master/"
+                href="https://flink.apache.org/zh/documentation/flink-agents-master/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://flink.apache.org/documentation/flinkml-master/"
+                href="https://flink.apache.org/documentation/flink-agents-master/"
                 />
   </url><url>
     <loc>https://flink.apache.org/what-is-flink/special-thanks/</loc>
@@ -327,6 +339,30 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://flink.apache.org/getting-started/"
+                />
+  </url><url>
+    <loc>https://flink.apache.org/documentation/flinkml-stable/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://flink.apache.org/zh/documentation/flinkml-stable/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://flink.apache.org/documentation/flinkml-stable/"
+                />
+  </url><url>
+    <loc>https://flink.apache.org/documentation/flinkml-master/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://flink.apache.org/zh/documentation/flinkml-master/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://flink.apache.org/documentation/flinkml-master/"
                 />
   </url><url>
     <loc>https://flink.apache.org/documentation/flink-stateful-functions-stable/</loc>

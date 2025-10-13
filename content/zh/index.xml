@@ -78,11 +78,11 @@
       <description> Flink Kubernetes Operator documentation (latest stable release) # You can find the Flink Kubernetes Operator documentation for the latest stable release here. </description>
     </item>
     <item>
-      <title>With Flink ML</title>
-      <link>https://flink.apache.org/zh/getting-started/with-flink-ml/</link>
+      <title>With Flink Agents</title>
+      <link>https://flink.apache.org/zh/getting-started/with-flink-agents/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://flink.apache.org/zh/getting-started/with-flink-ml/</guid>
-      <description> Getting Started with Flink ML # Read how you can get started with Flink ML here. </description>
+      <guid>https://flink.apache.org/zh/getting-started/with-flink-agents/</guid>
+      <description> Getting Started with Flink Agents # Read how you can get started with Flink Agents here. </description>
     </item>
     <item>
       <title>应用场景</title>
@@ -113,11 +113,11 @@
       <description> Flink Kubernetes Operator documentation (latest snapshot) # You can find the Flink Kubernetes Operator documentation for the latest snapshot here. </description>
     </item>
     <item>
-      <title>With Flink Stateful Functions</title>
-      <link>https://flink.apache.org/zh/getting-started/with-flink-stateful-functions/</link>
+      <title>With Flink ML</title>
+      <link>https://flink.apache.org/zh/getting-started/with-flink-ml/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://flink.apache.org/zh/getting-started/with-flink-stateful-functions/</guid>
-      <description> Getting Started with Flink Stateful Functions # Read how you can get started with Flink Stateful Functions here. </description>
+      <guid>https://flink.apache.org/zh/getting-started/with-flink-ml/</guid>
+      <description> Getting Started with Flink ML # Read how you can get started with Flink ML here. </description>
     </item>
     <item>
       <title>CDC $FlinkCDCStableShortVersion (stable)</title>
@@ -127,11 +127,11 @@
       <description> Flink CDC documentation (latest stable release) # You can find the Flink CDC documentation for the latest stable release here. </description>
     </item>
     <item>
-      <title>Training Course</title>
-      <link>https://flink.apache.org/zh/getting-started/training-course/</link>
+      <title>With Flink Stateful Functions</title>
+      <link>https://flink.apache.org/zh/getting-started/with-flink-stateful-functions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://flink.apache.org/zh/getting-started/training-course/</guid>
-      <description> Training Course # Read all about the Flink Training Course here. </description>
+      <guid>https://flink.apache.org/zh/getting-started/with-flink-stateful-functions/</guid>
+      <description> Getting Started with Flink Stateful Functions # Read how you can get started with Flink Stateful Functions here. </description>
     </item>
     <item>
       <title>开发计划</title>
@@ -148,6 +148,13 @@
       <description> Flink CDC documentation (latest snapshot) # You can find the Flink CDC documentation for the latest snapshot here. </description>
     </item>
     <item>
+      <title>Training Course</title>
+      <link>https://flink.apache.org/zh/getting-started/training-course/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://flink.apache.org/zh/getting-started/training-course/</guid>
+      <description> Training Course # Read all about the Flink Training Course here. </description>
+    </item>
+    <item>
       <title>社区 &amp; 项目信息</title>
       <link>https://flink.apache.org/zh/what-is-flink/community/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -155,11 +162,11 @@
       <description>社区 &amp;amp; 项目信息 # 如何从 Apache Flink 获得帮助？ # 我们可以通过多种方式从 Apache Flink 社区获得帮助。Flink committer 主要活跃在 邮件列表。对于用户支持和问题咨询，则可以通过 用户邮件列表 获得帮助。你还可以加入社区专属的 Slack。有些 Committer 同时会关注 Stack Overflow。请在提问的时候记得添加 apache-flink 的标签。问题反馈以及新特性的讨论则可以在 开发邮件列表 或者 Jira 上进行讨论。有兴趣对 Flink 进行贡献的人请查阅 贡献指南.&#xA;邮件列表 # 名字 订阅 摘要 退订 发送 归档 news@flink.apache.org&#xA;Flink 社区的新闻和公告 订阅 订阅 退订 只读邮件列表 归档 community@flink.apache.org&#xA;与会议，博客以及工作机会相关的更广泛的社区讨论&#x9;订阅 订阅 退订 发送 归档 user@flink.apache.org&#xA;用户支持以及问题咨询邮件列表 订阅 订阅 退订 发送 归档 user-zh@flink.apache.org&#xA;中文用户支持以及问题咨询邮件列表 订阅 订阅 退订 发送 归档 dev@flink.</description>
     </item>
     <item>
-      <title>ML $FlinkMLStableShortVersion (stable)</title>
-      <link>https://flink.apache.org/zh/documentation/flinkml-stable/</link>
+      <title>Agents $FlinkAgentsStableShortVersion (latest)</title>
+      <link>https://flink.apache.org/zh/documentation/flink-agents-stable/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://flink.apache.org/zh/documentation/flinkml-stable/</guid>
-      <description> Flink ML documentation (latest stable release) # You can find the Flink ML documentation for the latest stable release here. </description>
+      <guid>https://flink.apache.org/zh/documentation/flink-agents-stable/</guid>
+      <description> Flink Agents documentation (latest release) # You can find the Flink Agents documentation for the latest release here. </description>
     </item>
     <item>
       <title>Security</title>
@@ -169,11 +176,11 @@
       <description>Security # Security Updates # This section lists fixed vulnerabilities in Flink.&#xA;CVE ID Affected Flink versions Notes CVE-2020-1960 1.1.0 to 1.1.5, 1.2.0 to 1.2.1, 1.3.0 to 1.3.3, 1.4.0 to 1.4.2, 1.5.0 to 1.5.6, 1.6.0 to 1.6.4, 1.7.0 to 1.7.2, 1.8.0 to 1.8.3, 1.9.0 to 1.9.2, 1.10.0 Users are advised to upgrade to Flink 1.9.3 or 1.10.1 or later versions or remove the port parameter from the reporter configuration (see advisory for details).</description>
     </item>
     <item>
-      <title>ML Master (snapshot)</title>
-      <link>https://flink.apache.org/zh/documentation/flinkml-master/</link>
+      <title>Agents Main (snapshot)</title>
+      <link>https://flink.apache.org/zh/documentation/flink-agents-master/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://flink.apache.org/zh/documentation/flinkml-master/</guid>
-      <description> Flink ML documentation (latest snapshot) # You can find the Flink ML documentation for the latest snapshot here. </description>
+      <guid>https://flink.apache.org/zh/documentation/flink-agents-master/</guid>
+      <description> Flink Agents documentation (latest snapshot) # You can find the Flink Agents documentation for the latest snapshot here. </description>
     </item>
     <item>
       <title>特殊致谢</title>
@@ -181,6 +188,20 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://flink.apache.org/zh/what-is-flink/special-thanks/</guid>
       <description> 特殊致谢 # Apache 赞助商 # 没有这些赞助商，ASF 将无法维持其活动：&#xA;https://www.apache.org/foundation/thanks.html&#xA;如果您想了解更多关于 Apache 赞助计划的信息，请查看：&#xA;https://www.apache.org/foundation/sponsorship.html&#xA;感谢！&#xA;那些帮助了我们项目的公司&amp;hellip; # 我们还要感谢那些赞助了机器或服务的公司，感谢他们的赞助帮助了 Apache Flink 项目的开发：&#xA;Alibaba 捐赠了 8 台机器（32vCPU,64GB）为 Flink 仓库和 Pull Reqeust 运行持续集成的任务。 AWS 捐赠了 AWS 服务的开销，这些 AWS 服务用在了 flink-connector-aws 项目的集成测试中。 Ververica 捐赠了一台机器（1vCPU,2GB）用于维护 flink-ci 镜像仓库，以及一台机器（8vCPU,64GB）运行日常的 Flink Benchmark。 </description>
+    </item>
+    <item>
+      <title>ML $FlinkMLStableShortVersion (stable)</title>
+      <link>https://flink.apache.org/zh/documentation/flinkml-stable/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://flink.apache.org/zh/documentation/flinkml-stable/</guid>
+      <description> Flink ML documentation (latest stable release) # You can find the Flink ML documentation for the latest stable release here. </description>
+    </item>
+    <item>
+      <title>ML Master (snapshot)</title>
+      <link>https://flink.apache.org/zh/documentation/flinkml-master/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://flink.apache.org/zh/documentation/flinkml-master/</guid>
+      <description> Flink ML documentation (latest snapshot) # You can find the Flink ML documentation for the latest snapshot here. </description>
     </item>
     <item>
       <title>Stateful Functions $StateFunStableShortVersion (stable)</title>
