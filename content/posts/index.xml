@@ -6,8 +6,15 @@
     <description>Recent content in Flink Blog on Apache Flink</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Oct 2025 08:00:00 +0000</lastBuildDate>
     <atom:link href="https://flink.apache.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apache Flink Agents 0.1.0 Release Announcement</title>
+      <link>https://flink.apache.org/2025/10/15/apache-flink-agents-0.1.0-release-announcement/</link>
+      <pubDate>Wed, 15 Oct 2025 08:00:00 +0000</pubDate>
+      <guid>https://flink.apache.org/2025/10/15/apache-flink-agents-0.1.0-release-announcement/</guid>
+      <description>The Apache Flink Community is excited to announce the first preview release of Apache Flink Agents (0.1.0).&#xA;What is Apache Flink Agents # Apache Flink Agents is a new sub-project of Apache Flink for building event-driven AI agents directly on Flink’s streaming runtime. It unifies stream processing and autonomous agents in one framework, combining Flink&amp;rsquo;s proven strengths &amp;ndash; scale, low latency, fault tolerance, and state management &amp;ndash; with agent capabilities &amp;ndash; LLMs, tools, memory, and dynamic orchestration.</description>
+    </item>
     <item>
       <title>Apache Flink 1.20.3 Release Announcement</title>
       <link>https://flink.apache.org/2025/10/09/apache-flink-1.20.3-release-announcement/</link>
