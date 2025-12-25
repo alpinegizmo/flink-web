@@ -527,7 +527,7 @@ https://github.com/alex-shpak/hugo-book
 </h2>
 <p>Let&rsquo;s start with the basics. Our goal is to get data from a single Kafka topic into a corresponding Iceberg table.</p>
 <div style="text-align: center;">
-<img src="/img/blog/2025-10-03-kafka-dynamic-iceberg-sink/simple-single-kafka-topic-to-iceberg.png" style="width:70%;margin:15px">
+<img src="/img/blog/2025-10-14-kafka-dynamic-iceberg-sink/simple-single-kafka-topic-to-iceberg.png" style="width:70%;margin:15px">
 </div>
 <h3 id="how-to-write-to-an-iceberg-table-with-flink">
   How to write to an Iceberg table with Flink
@@ -557,7 +557,7 @@ https://github.com/alex-shpak/hugo-book
 </h2>
 <p>Now, what if we have thousands of topics? The logical next step is to create a dedicated processing graph (or DAG) for each topic-to-table mapping within a single Flink application.</p>
 <div style="text-align: center;">
-<img src="/img/blog/2025-10-03-kafka-dynamic-iceberg-sink/multiple-dag-pipeline.png" style="width:70%;margin:15px">
+<img src="/img/blog/2025-10-14-kafka-dynamic-iceberg-sink/multiple-dag-pipeline.png" style="width:70%;margin:15px">
 </div>
 <p>This looks good, but this static architecture cannot adapt to the changes: an Iceberg sink can only write to <strong>one predefined table</strong>, the table must <strong>exist beforehand</strong>, and its <strong>schema is fixed</strong> for the lifetime of the job.</p>
 <h3 id="scaling-up-problems-ahead">
@@ -580,7 +580,7 @@ A single Kafka topic contains multiple event types that need to be routed to dif
 </h3>
 <p>Here’s the new architecture:</p>
 <div style="text-align: center;">
-<img src="/img/blog/2025-10-03-kafka-dynamic-iceberg-sink/dynamic-iceberg-sink.png" style="width:70%;margin:15px">
+<img src="/img/blog/2025-10-14-kafka-dynamic-iceberg-sink/dynamic-iceberg-sink.png" style="width:70%;margin:15px">
 </div>
 <p>This single, unified pipeline can ingest from any number of topics and write to any number of tables, automatically handling new topics and schema changes without restarts.</p>
 <h4 id="a-look-at-the-implementation">
