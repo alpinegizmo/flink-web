@@ -141,11 +141,23 @@ Apache Flink RabbitMQ Connector 3.0.1 # Apache Flink RabbitMQ Connector 3.0.1 So
 This component is compatible with Apache Flink version(s):
 1.16.x
 1.17.x
-Apache Flink Agents # Apache Flink® Agents 0.1 是我们最新的版本。
-Apache Flink Agents 0.1.1 # Apache Flink Agents 0.1.1 (asc, sha512)
+Apache Flink Agents # Apache Flink® Agents 0.2 是我们最新的版本。
+Apache Flink Agents 0.2.0 # Apache Flink Agents 0.2.0 Java Release for Flink 1.20 [jar] (asc, sha512)
+Apache Flink Agents 0.2.0 Java Release for Flink 2.0 [jar] (asc, sha512)
+Apache Flink Agents 0.2.0 Java Release for Flink 2.1 [jar] (asc, sha512)
+Apache Flink Agents 0.2.0 Java Release for Flink 2.2 [jar] (asc, sha512)
+Apache Flink Agents 0.2.0 Python Release [Wheel] (asc, sha512)
+Apache Flink Agents 0.2.0 Source Release (asc, sha512)
+This component is compatible with Apache Flink version(s):
+1.20.x
+2.0.x
+2.1.x
+2.2.x
+Apache Flink Agents 0.1.1 # Apache Flink Agents 0.1.1 Java Release for Flink 1.20 [jar] (asc, sha512)
+Apache Flink Agents 0.1.1 Python Release [Wheel] (asc, sha512)
 Apache Flink Agents 0.1.1 Source Release (asc, sha512)
 This component is compatible with Apache Flink version(s):
-1.20.3 Apache Flink Stateful Functions # Apache Flink® Stateful Functions 3.3 是我们最新的稳定版本。
+1.20.x Apache Flink Stateful Functions # Apache Flink® Stateful Functions 3.3 是我们最新的稳定版本。
 Apache Flink Stateful Functions 3.3.0 # Apache Flink Stateful Functions 3.3.0 Source Release (asc, sha512)
 This component is compatible with Apache Flink version(s):
 1.16.2 Apache Flink ML # Apache Flink® ML 2.3 是我们最新的稳定版本。
