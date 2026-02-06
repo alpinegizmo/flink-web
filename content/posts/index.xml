@@ -6,8 +6,15 @@
     <description>Recent content in Flink Blog on Apache Flink</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Dec 2025 09:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://flink.apache.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apache Flink Agents 0.2.0 Release Announcement</title>
+      <link>https://flink.apache.org/2026/02/06/apache-flink-agents-0.2.0-release-announcement/</link>
+      <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://flink.apache.org/2026/02/06/apache-flink-agents-0.2.0-release-announcement/</guid>
+      <description>The Apache Flink Community is excited to announce the release of Apache Flink Agents 0.2.0.&#xA;Get access to Flink Agents 0.2.0 now:&#xA;Download the release here. Find documentation and quickstart examples here. Note Agents 0.2.0 is a preview version, which means: Some functionalities may contain known or unknown issues. You can check the list of known issues and their resolution status via the Github Issues. The current APIs and configuration options are experimental and may undergo non-backward compatible changes in future versions.</description>
+    </item>
     <item>
       <title>Apache Flink Agents 0.1.1 Release Announcement</title>
       <link>https://flink.apache.org/2025/12/09/apache-flink-agents-0.1.1-release-announcement/</link>

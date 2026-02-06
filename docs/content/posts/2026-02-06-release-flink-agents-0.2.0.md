@@ -1,6 +1,6 @@
 ---
 title:  "Apache Flink Agents 0.2.0 Release Announcement"
-date: "2026-02-06T08:00:00.000Z"
+date: "2026-02-06T00:00:00.000Z"
 authors:
 - xtsong:
   name: "Xintong Song"
