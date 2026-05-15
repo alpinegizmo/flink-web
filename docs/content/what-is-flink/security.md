@@ -86,6 +86,18 @@ This section lists fixed vulnerabilities in Flink.
 			Users are advised to upgrade to Flink Stateful Functions 3.3.0 or later versions.
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://www.cve.org/CVERecord?id=CVE-2026-35194">CVE-2026-35194</a>
+		</td>
+		<td>
+			1.15.0 through 1.20.x and 2.0.0 through 2.x
+		</td>
+		<td>
+			<a href="https://github.com/apache/flink/commit/64007b131d689158af90ca1c1b71b018129a85c5">Fixed in commit b06c0a23a5a622d48efc8395699b2e4502bd92be</a>, <a href="https://github.com/apache/flink/commit/e7c0d17074dc0dc9e102a072f11bf0de09ba01a5">e7c0d17074dc0dc9e102a072f11bf0de09ba01a5</a> and <a href="https://github.com/apache/flink/commit/9b2a11268dc8b4e6ea5a604dca0ea27f0fee3ed8">9b2a11268dc8b4e6ea5a604dca0ea27f0fee3ed8</a> <br>
+			Users are advised to upgrade to Flink 1.20.4, 2.0.2, 2.1.2 or 2.2.1.
+		</td>
+	</tr>
 </table>
 
 
